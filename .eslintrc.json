@@ -12,6 +12,8 @@
     "describe": true,
     "it": true,
     "request": true,
-    "expect": true
+    "expect": true,
+    "beforeEach": true,
+    "app": true
   }
 }
